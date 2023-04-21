@@ -1,0 +1,26 @@
+header{
+  background-color: #0077B6;
+}
+.headerinside{
+  align-items: center;
+}
+
+nav{
+  float: right;
+  display: inline;
+}
+
+nav ul li{
+  margin: 5px;
+  display: inline;
+}
+nav button {
+  margin: 5px;
+  display: inline;
+}
+
+.logo{
+  margin-top: 14px;
+  margin-left: 10px;
+}
+
